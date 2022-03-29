@@ -15,3 +15,5 @@ package/
 report/
 kb.xml
 .devcontainer/
+content.md
+planning.md
